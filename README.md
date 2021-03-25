@@ -11,7 +11,7 @@ Ansible playbook to Configure Reverse Proxy (i.e. HAProxy) and update it's confi
 
 ## Links
 
-[Click here for Video and Post](https://www.linkedin.com/in/amanjhagrolia143)
+[Click here for Video and Post](https://www.linkedin.com/posts/amanjhagrolia143_vimaldaga-righteducation-educationredefine-activity-6780695571222052864-rnL_)
   
 ***Feel free to Contact!!***
 
